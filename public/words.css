@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+#play-button {
+    display: flex;
+    margin: auto;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.score-time-div {
+    display: flex;
+    text-align: center;
+}
+
+#game-word {
+    display: flex;
+    justify-content: center;
+}
+
+#game-message {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.hidden {
+    display: none;
+}
+
+#restart-button {
+    display: flex;
+    margin: auto;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#endgame-button {
+    display: flex;
+    margin: auto;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}

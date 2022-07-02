@@ -1,0 +1,32 @@
+.intro-section {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.apple-image {
+    height: 30px;
+    width: 30px;
+    margin-right: 10px;
+}
+
+.pc-image {
+    height: 30px;
+    width: 30px;
+    margin-right: 10px;
+}
+
+.game-logo {
+    height: 500px;
+    width: 600px;
+}
+
+.download-div {
+    justify-content: center;   
+    text-align: center; 
+}

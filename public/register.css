@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.register-form-section {
+    justify-content: center;
+    line-height: 1.8;
+    margin-top: 200px;
+    font-size: large;
+}
+
+.submit-button {
+    text-align: center;
+    margin-top: 15px;
+}
